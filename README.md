@@ -13,5 +13,5 @@ ___
 ___
 
 ### CREATER:
-**Nikita Syromyrnikov**  
+**Nikita Syromytnikov**  
 *t.me/SyromyrnikovNikitaKorolev*
