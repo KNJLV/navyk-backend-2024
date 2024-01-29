@@ -9,3 +9,9 @@ ___
 ### Link to FRONTEND Repository :
 
 *https://github.com/waydehueydeee/navyk-frontend-2024*
+
+___
+
+### CREATER:
+**Nikita Syromyrnikov**  
+*t.me/SyromyrnikovNikitaKorolev*
