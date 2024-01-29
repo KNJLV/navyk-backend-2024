@@ -1,4 +1,4 @@
-# BACKEND for Business card website for online school «‎НАВЫК»‎ (new design)
+# BACKEND for Business card website for online school «‎НАВЫК»‎
 
 ___
 
