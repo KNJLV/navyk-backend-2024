@@ -35,7 +35,7 @@ req.body.parent_name,
  );
 })
 app.get('/', function(req, res) {
-  res.sendFile(path.join(__dirname, 'navyk_webpage/index.html'));
+  res.sendFile(path.join(__dirname, '../navyk-frontend-2024/index.html'));
 });
 
 (async () => {
